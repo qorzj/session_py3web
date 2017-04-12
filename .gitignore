@@ -1,0 +1,5 @@
+*.pyc
+.DS_Store
+build/
+dist/
+sqlalchemy_py3web.egg-info/
